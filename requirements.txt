@@ -1,0 +1,6 @@
+alembic
+fastapi
+SQLAlchemy>=2
+psycopg2
+pydantic[email]
+uvicorn
